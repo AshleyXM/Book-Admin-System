@@ -25,7 +25,9 @@ npm install
 
 ## How to Run
 
-You need to open two terminals to run the frontend and backend respectively.
+First of all, in order to run the project, you need to replace the \<username\> and \<password\> of the file models/index.ts with yours in the backend project.
+
+Then you need to open two terminals to run the frontend and backend respectively.
 
 ### Run frontend
 
