@@ -5,7 +5,7 @@ import CategorySchema from "./categoryModel";
 import LoanSchema from "./loanModel";
 
 const uri =
-  "mongodb+srv://454198339:454198339@cluster0.pesd53q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://<username>:<password>@cluster0.pesd53q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 async function run() {
   mongoose.connect(uri);
