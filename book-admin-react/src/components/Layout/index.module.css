@@ -1,0 +1,23 @@
+.header {
+  background-color: #fff;
+  color: #000;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.logo {
+  margin-right: 10px;
+}
+
+.user {
+  float: right;
+  font-size: 14px;
+}
+
+.sectionInner {
+  height: calc(100vh - 64px);
+}
+
+.sectionContent {
+  padding: 32px;
+}

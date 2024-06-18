@@ -1,0 +1,17 @@
+.title {
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+
+.content {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 32px;
+  overflow: auto;
+  height: calc(100% - 54px);
+}
+
+.operation {
+  float: right;
+}
